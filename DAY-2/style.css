@@ -1,0 +1,29 @@
+.color_blue{
+    color: blue;
+}
+
+.color_red{
+    color: red;
+}  
+
+.color_green{
+    color: green;
+}
+
+.img{
+    width: 500px;
+    height: 300px;
+}
+
+.jpg{
+    width: 500px;
+    height: 300px;
+}
+
+.buchi{ 
+    border-radius: 100px;
+    border-color: blueviolet;
+    border-width: 10px;
+    border-style: dotted;
+    text-align: center;
+}
