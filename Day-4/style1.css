@@ -1,0 +1,19 @@
+body{
+    background: blue url(https://www.w3schools.com/w3images/wedding_couple.jpg) no-repeat center/cover;
+    color: white;
+}
+.JJ{
+    border: 10px black;
+    text-align: center;
+    font-size: 40px;
+
+    margin-top: 400px;
+}
+.married{
+    text-align: center;
+    font-size: 20px;
+}
+.date{
+    text-align: center;
+    font-size: 15px;
+}
